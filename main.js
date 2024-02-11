@@ -456,7 +456,7 @@ const lista = [
     "DNF Duel",
     "Predecessor",
     "Giga Bash",
-    "Caverns of Mars"
+    "Caverns of Mars",
     "Deathloop",
     "Mighty Fight: Federation",
     "Jitsu Squad",
